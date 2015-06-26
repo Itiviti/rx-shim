@@ -1,4 +1,4 @@
-[![Build status](https://img.shields.io/appveyor/ci/Ullink/rx-shim.svg?label=build windows)](https://ci.appveyor.com/project/Ullink/rx-shim) [![NuGet](https://img.shields.io/nuget/dt/RxShim.svg)](https://www.nuget.org/packages/RxShim/) [![NuGet](https://img.shields.io/nuget/v/RxShim.svg)](https://www.nuget.org/packages/RxShim/) [![GitHub license](https://img.shields.io/github/license/Ullink/rx-shim.svg)](http://www.apache.org/licenses/LICENSE-2.0)   
+[![Build status](https://img.shields.io/appveyor/ci/gluck/rx-shim.svg?label=build windows)](https://ci.appveyor.com/project/gluck/rx-shim) [![NuGet](https://img.shields.io/nuget/dt/RxShim.svg)](https://www.nuget.org/packages/RxShim/) [![NuGet](https://img.shields.io/nuget/v/RxShim.svg)](https://www.nuget.org/packages/RxShim/) [![GitHub license](https://img.shields.io/github/license/Ullink/rx-shim.svg)](http://www.apache.org/licenses/LICENSE-2.0)   
 
 Introduction
 ============
